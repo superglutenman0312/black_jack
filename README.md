@@ -76,3 +76,5 @@ python client_gui.py
 ### GUI Interface
 ![GUI Demo](screenshots/GUI.png)
   
+---
+**Author**: Yu-Cheng Wang
